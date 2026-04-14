@@ -1,10 +1,11 @@
-# 🏛️ Portal de Oferta Académica
+# Facultad de Ciencias Exactas y Naturales
 
-**Bienvenidos al portal oficial de oferta académica de la institución.**
+A continuación, se detalla la oferta académica correspondiente a esta facultad:
 
-Este sitio ha sido diseñado para centralizar la información de nuestras diferentes facultades. Aquí encontrará de manera estructurada y clara:
-- Las facultades que componen nuestra institución.
-- Las carreras disponibles en cada área de estudio.
-- Los títulos profesionales oficiales que se otorgan.
-
-*Utilice el menú de navegación superior para explorar la oferta disponible y encontrar su futuro profesional.*
+| Carrera | Título que otorga |
+| :--- | :--- |
+| **Agronomía** | Ingeniero/a Agrónomo/a |
+| **Biología** | Biólogo/a |
+| **Gestión Ambiental** | Ingeniero/a en Gestión Ambiental |
+| **Agropecuaria** | Ingeniero/a Agrónomo/a |
+| **Alimentos** | Ingeniero/a de Alimentos |
